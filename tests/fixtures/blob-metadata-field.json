@@ -1,0 +1,75 @@
+{
+ "data": {
+  "objectId": "0x3babb11da2dca2a32c756b0bce3f3e580604fbd0b3d062f44784dfd3727f5677",
+  "version": "1040458325",
+  "digest": "5GJJmFiTFWcivcDpup5fAXB7beDDL7AP8bcpYmmz5qHZ",
+  "type": "0x2::dynamic_field::Field<vector<u8>, 0xfdc88f7d7cf30afab2f82e8380d11ee8f70efb90e863d1de8616fae1bb09ea77::metadata::Metadata>",
+  "content": {
+   "dataType": "moveObject",
+   "type": "0x2::dynamic_field::Field<vector<u8>, 0xfdc88f7d7cf30afab2f82e8380d11ee8f70efb90e863d1de8616fae1bb09ea77::metadata::Metadata>",
+   "hasPublicTransfer": false,
+   "fields": {
+    "id": {
+     "id": "0x3babb11da2dca2a32c756b0bce3f3e580604fbd0b3d062f44784dfd3727f5677"
+    },
+    "name": [
+     109,
+     101,
+     116,
+     97,
+     100,
+     97,
+     116,
+     97
+    ],
+    "value": {
+     "type": "0xfdc88f7d7cf30afab2f82e8380d11ee8f70efb90e863d1de8616fae1bb09ea77::metadata::Metadata",
+     "fields": {
+      "metadata": {
+       "type": "0x2::vec_map::VecMap<0x1::string::String, 0x1::string::String>",
+       "fields": {
+        "contents": [
+         {
+          "type": "0x2::vec_map::Entry<0x1::string::String, 0x1::string::String>",
+          "fields": {
+           "key": "memwal_job_id",
+           "value": "dd8de0c4-8ec4-4004-ae2d-cf4004dc8984"
+          }
+         },
+         {
+          "type": "0x2::vec_map::Entry<0x1::string::String, 0x1::string::String>",
+          "fields": {
+           "key": "memwal_namespace",
+           "value": "walden-archive-24717601d4964b7d"
+          }
+         },
+         {
+          "type": "0x2::vec_map::Entry<0x1::string::String, 0x1::string::String>",
+          "fields": {
+           "key": "memwal_owner",
+           "value": "0xbe54a8cf260e068dea6c4ce23e91c430af6cbd10791289e0c2d9e64b359473d5"
+          }
+         },
+         {
+          "type": "0x2::vec_map::Entry<0x1::string::String, 0x1::string::String>",
+          "fields": {
+           "key": "memwal_package_id",
+           "value": "0xe7c16fbea0560e7057e2bf7422feaa4fb313749fc69c9e9092fac7a33b81d7f5"
+          }
+         },
+         {
+          "type": "0x2::vec_map::Entry<0x1::string::String, 0x1::string::String>",
+          "fields": {
+           "key": "memwal_agent_id",
+           "value": "f095c2aeeb66f05ca02cd499bb61f003418779b2091c2602539126dd0afc96eb"
+          }
+         }
+        ]
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "data": {
+  "objectId": "0x801dbc2f0053d34734814b2d6df491ce7807a725fe9a01ad74a07e9c51396c37",
+  "version": "1012809936",
+  "digest": "92xYvGvmnE8qh3tH8aqYU2t8AR2UYhPsf63VMHYVrWEH",
+  "type": "0x8d97f1cd6ac663735be08d1d2b6d02a159e711586461306ce60a2b7a6a565a9e::price_info::PriceInfoObject",
+  "content": {
+   "dataType": "moveObject",
+   "type": "0x8d97f1cd6ac663735be08d1d2b6d02a159e711586461306ce60a2b7a6a565a9e::price_info::PriceInfoObject",
+   "hasPublicTransfer": true,
+   "fields": {
+    "id": {
+     "id": "0x801dbc2f0053d34734814b2d6df491ce7807a725fe9a01ad74a07e9c51396c37"
+    },
+    "price_info": {
+     "type": "0x8d97f1cd6ac663735be08d1d2b6d02a159e711586461306ce60a2b7a6a565a9e::price_info::PriceInfo",
+     "fields": {
+      "arrival_time": "1789759156",
+      "attestation_time": "1789759156",
+      "price_feed": {
+       "type": "0x8d97f1cd6ac663735be08d1d2b6d02a159e711586461306ce60a2b7a6a565a9e::price_feed::PriceFeed",
+       "fields": {
+        "ema_price": {
+         "type": "0x8d97f1cd6ac663735be08d1d2b6d02a159e711586461306ce60a2b7a6a565a9e::price::Price",
+         "fields": {
+          "conf": "62614",
+          "expo": {
+           "type": "0x8d97f1cd6ac663735be08d1d2b6d02a159e711586461306ce60a2b7a6a565a9e::i64::I64",
+           "fields": {
+            "magnitude": "8",
+            "negative": true
+           }
+          },
+          "price": {
+           "type": "0x8d97f1cd6ac663735be08d1d2b6d02a159e711586461306ce60a2b7a6a565a9e::i64::I64",
+           "fields": {
+            "magnitude": "80210416",
+            "negative": false
+           }
+          },
+          "timestamp": "1789759152"
+         }
+        },
+        "price": {
+         "type": "0x8d97f1cd6ac663735be08d1d2b6d02a159e711586461306ce60a2b7a6a565a9e::price::Price",
+         "fields": {
+          "conf": "57788",
+          "expo": {
+           "type": "0x8d97f1cd6ac663735be08d1d2b6d02a159e711586461306ce60a2b7a6a565a9e::i64::I64",
+           "fields": {
+            "magnitude": "8",
+            "negative": true
+           }
+          },
+          "price": {
+           "type": "0x8d97f1cd6ac663735be08d1d2b6d02a159e711586461306ce60a2b7a6a565a9e::i64::I64",
+           "fields": {
+            "magnitude": "80864996",
+            "negative": false
+           }
+          },
+          "timestamp": "1789759152"
+         }
+        },
+        "price_identifier": {
+         "type": "0x8d97f1cd6ac663735be08d1d2b6d02a159e711586461306ce60a2b7a6a565a9e::price_identifier::PriceIdentifier",
+         "fields": {
+          "bytes": [
+           35,
+           215,
+           49,
+           81,
+           19,
+           245,
+           177,
+           211,
+           186,
+           122,
+           131,
+           96,
+           76,
+           68,
+           185,
+           77,
+           121,
+           244,
+           253,
+           105,
+           175,
+           119,
+           248,
+           4,
+           252,
+           127,
+           146,
+           10,
+           109,
+           198,
+           87,
+           68
+          ]
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

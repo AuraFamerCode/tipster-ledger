@@ -1,0 +1,65 @@
+{
+ "data": {
+  "objectId": "0x4428e06c7197d974e5083b4884b5bf45b65b5a515d6d3baf2a33a521ebd9e0cf",
+  "version": "1011864416",
+  "digest": "GYxPxHXJPEMXX1xso7ZoA2zgjK43evtG6qiAqhBi77xB",
+  "type": "0xcee7a6fd8de52ce645c38332bde23d4a30fd9426bc4681409733dd50958a24c6::account::MemWalAccount",
+  "content": {
+   "dataType": "moveObject",
+   "type": "0xcee7a6fd8de52ce645c38332bde23d4a30fd9426bc4681409733dd50958a24c6::account::MemWalAccount",
+   "hasPublicTransfer": true,
+   "fields": {
+    "active": true,
+    "created_at": "1790977557441",
+    "delegate_keys": [
+     {
+      "type": "0xcee7a6fd8de52ce645c38332bde23d4a30fd9426bc4681409733dd50958a24c6::account::DelegateKey",
+      "fields": {
+       "created_at": "1790977615000",
+       "label": "walden-bot",
+       "public_key": [
+        240,
+        149,
+        194,
+        174,
+        235,
+        102,
+        240,
+        92,
+        160,
+        44,
+        212,
+        153,
+        187,
+        97,
+        240,
+        3,
+        65,
+        135,
+        121,
+        178,
+        9,
+        28,
+        38,
+        2,
+        83,
+        145,
+        38,
+        221,
+        10,
+        252,
+        150,
+        235
+       ],
+       "sui_address": "0x3f157b28b44e7abab3a4fb981925b2f6e39408ab42da9e2e7fd6da52e648bd68"
+      }
+     }
+    ],
+    "id": {
+     "id": "0x4428e06c7197d974e5083b4884b5bf45b65b5a515d6d3baf2a33a521ebd9e0cf"
+    },
+    "owner": "0xbe54a8cf260e068dea6c4ce23e91c430af6cbd10791289e0c2d9e64b359473d5"
+   }
+  }
+ }
+}

@@ -1,0 +1,366 @@
+{
+  "fetchedAt": "2026-10-21T10:57:36.288Z",
+  "source": "Polymarket Gamma + CLOB public APIs",
+  "events": [
+    {
+      "id": "crint-swew-bgrw-2026-10-15",
+      "sport": "cricket",
+      "competition": "Women's T20",
+      "title": "ECA Women's European Cup T20: Sweden Women vs Bulgaria Women",
+      "outcomes": [
+        "Sweden Women",
+        "Bulgaria Women"
+      ],
+      "startsAt": "2026-10-15T11:00:00.000Z",
+      "marketPrice": 0.94,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-swew-bgrw-2026-10-15"
+      },
+      "result": 0,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-swew-bgrw-2026-10-15"
+    },
+    {
+      "id": "crint-rouw-bgrw-2026-10-16",
+      "sport": "cricket",
+      "competition": "Women's T20",
+      "title": "ECA Women's European Cup T20: Romania Women vs Bulgaria Women",
+      "outcomes": [
+        "Romania Women",
+        "Bulgaria Women"
+      ],
+      "startsAt": "2026-10-16T07:00:00.000Z",
+      "marketPrice": 0.85,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-rouw-bgrw-2026-10-16"
+      },
+      "result": 1,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-rouw-bgrw-2026-10-16"
+    },
+    {
+      "id": "crint-bgrw-autw-2026-10-16",
+      "sport": "cricket",
+      "competition": "Women's T20",
+      "title": "ECA Women's European Cup T20: Bulgaria Women vs Austria Women",
+      "outcomes": [
+        "Bulgaria Women",
+        "Austria Women"
+      ],
+      "startsAt": "2026-10-16T11:00:00.000Z",
+      "marketPrice": 0.205,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-bgrw-autw-2026-10-16"
+      },
+      "result": 1,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-bgrw-autw-2026-10-16"
+    },
+    {
+      "id": "crint-bgd-zwe-2026-10-17",
+      "sport": "cricket",
+      "competition": "ODI",
+      "title": "UAE Tri-Nations ODIs: Bangladesh vs Zimbabwe",
+      "outcomes": [
+        "Bangladesh",
+        "Zimbabwe"
+      ],
+      "startsAt": "2026-10-17T05:30:00.000Z",
+      "marketPrice": 0.655,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-bgd-zwe-2026-10-17"
+      },
+      "result": 1,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-bgd-zwe-2026-10-17"
+    },
+    {
+      "id": "crint-can-npl-2026-10-17",
+      "sport": "cricket",
+      "competition": "ODI",
+      "title": "Cricket World Cup League 2: Canada vs Nepal",
+      "outcomes": [
+        "Canada",
+        "Nepal"
+      ],
+      "startsAt": "2026-10-17T06:00:00.000Z",
+      "marketPrice": 0.34,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-can-npl-2026-10-17"
+      },
+      "result": 0,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-can-npl-2026-10-17"
+    },
+    {
+      "id": "crint-rouw-swew-2026-10-17",
+      "sport": "cricket",
+      "competition": "Women's T20",
+      "title": "ECA Women's European Cup T20: Romania Women vs Sweden Women",
+      "outcomes": [
+        "Romania Women",
+        "Sweden Women"
+      ],
+      "startsAt": "2026-10-17T11:00:00.000Z",
+      "marketPrice": 0.07,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-rouw-swew-2026-10-17"
+      },
+      "result": 1,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-rouw-swew-2026-10-17"
+    },
+    {
+      "id": "crint-bgrw-rouw-2026-10-18",
+      "sport": "cricket",
+      "competition": "Women's T20",
+      "title": "ECA Women's European Cup T20: Bulgaria Women vs Romania Women",
+      "outcomes": [
+        "Bulgaria Women",
+        "Romania Women"
+      ],
+      "startsAt": "2026-10-18T07:00:00.000Z",
+      "marketPrice": 0.565,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-bgrw-rouw-2026-10-18"
+      },
+      "result": 0,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-bgrw-rouw-2026-10-18"
+    },
+    {
+      "id": "criccsat20w-lio-wes-2026-10-18",
+      "sport": "cricket",
+      "competition": "Women's T20",
+      "title": "T20 Series South Africa, Women: Lions vs Western Province",
+      "outcomes": [
+        "Lions",
+        "Western Province"
+      ],
+      "startsAt": "2026-10-18T08:00:00.000Z",
+      "marketPrice": 0.5,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/criccsat20w-lio-wes-2026-10-18"
+      },
+      "result": 1,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/criccsat20w-lio-wes-2026-10-18"
+    },
+    {
+      "id": "crint-pak-lka-2026-10-18",
+      "sport": "cricket",
+      "competition": "ODI",
+      "title": "England and Sri Lanka Tour of Pakistan ODIs: Pakistan vs Sri Lanka",
+      "outcomes": [
+        "Pakistan",
+        "Sri Lanka"
+      ],
+      "startsAt": "2026-10-18T08:00:00.000Z",
+      "marketPrice": 0.675,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-pak-lka-2026-10-18"
+      },
+      "result": 0,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-pak-lka-2026-10-18"
+    },
+    {
+      "id": "crint-ausw-nzlw-2026-10-18",
+      "sport": "cricket",
+      "competition": "Women's T20",
+      "title": "New Zealand Women Tour of Australia T20s: Australia Women vs New Zealand Women",
+      "outcomes": [
+        "Australia Women",
+        "New Zealand Women"
+      ],
+      "startsAt": "2026-10-18T08:15:00.000Z",
+      "marketPrice": 0.885,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-ausw-nzlw-2026-10-18"
+      },
+      "result": 0,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-ausw-nzlw-2026-10-18"
+    },
+    {
+      "id": "crint-swew-autw-2026-10-18",
+      "sport": "cricket",
+      "competition": "Women's T20",
+      "title": "ECA Women's European Cup T20: Sweden Women vs Austria Women",
+      "outcomes": [
+        "Sweden Women",
+        "Austria Women"
+      ],
+      "startsAt": "2026-10-18T11:00:00.000Z",
+      "marketPrice": 0.97,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-swew-autw-2026-10-18"
+      },
+      "result": 0,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-swew-autw-2026-10-18"
+    },
+    {
+      "id": "crint-indw-zwew-2026-10-18",
+      "sport": "cricket",
+      "competition": "Women's T20",
+      "title": "Zimbabwe Women Tour of India T20s: India Women vs Zimbabwe Women",
+      "outcomes": [
+        "India Women",
+        "Zimbabwe Women"
+      ],
+      "startsAt": "2026-10-18T13:30:00.000Z",
+      "marketPrice": 0.979,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-indw-zwew-2026-10-18"
+      },
+      "result": 0,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-indw-zwew-2026-10-18"
+    },
+    {
+      "id": "cricwcl-eng-wes-2026-10-18",
+      "sport": "cricket",
+      "competition": "Franchise",
+      "title": "World Championship of Legends: England Champions vs West Indies Champions",
+      "outcomes": [
+        "England Champions",
+        "West Indies Champions"
+      ],
+      "startsAt": "2026-10-18T15:30:00.000Z",
+      "marketPrice": 0.62,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/cricwcl-eng-wes-2026-10-18"
+      },
+      "result": 1,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/cricwcl-eng-wes-2026-10-18"
+    },
+    {
+      "id": "crint-omn-npl-2026-10-19",
+      "sport": "cricket",
+      "competition": "ODI",
+      "title": "Cricket World Cup League 2: Oman vs Nepal",
+      "outcomes": [
+        "Oman",
+        "Nepal"
+      ],
+      "startsAt": "2026-10-19T05:30:00.000Z",
+      "marketPrice": 0.325,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-omn-npl-2026-10-19"
+      },
+      "result": 1,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-omn-npl-2026-10-19"
+    },
+    {
+      "id": "crint-afg-zwe-2026-10-19",
+      "sport": "cricket",
+      "competition": "ODI",
+      "title": "UAE Tri-Nations ODIs: Afghanistan vs Zimbabwe",
+      "outcomes": [
+        "Afghanistan",
+        "Zimbabwe"
+      ],
+      "startsAt": "2026-10-19T11:30:00.000Z",
+      "marketPrice": 0.72,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-afg-zwe-2026-10-19"
+      },
+      "result": 0,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-afg-zwe-2026-10-19"
+    },
+    {
+      "id": "crint-pak-gbr-2026-10-20",
+      "sport": "cricket",
+      "competition": "ODI",
+      "title": "England and Sri Lanka Tour of Pakistan ODIs: Pakistan vs England",
+      "outcomes": [
+        "Pakistan",
+        "England"
+      ],
+      "startsAt": "2026-10-20T08:00:00.000Z",
+      "marketPrice": 0.395,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-pak-gbr-2026-10-20"
+      },
+      "result": 0,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-pak-gbr-2026-10-20"
+    },
+    {
+      "id": "crint-ausw-nzlw-2026-10-20",
+      "sport": "cricket",
+      "competition": "Women's T20",
+      "title": "New Zealand Women Tour of Australia T20s: Australia Women vs New Zealand Women",
+      "outcomes": [
+        "Australia Women",
+        "New Zealand Women"
+      ],
+      "startsAt": "2026-10-20T08:15:00.000Z",
+      "marketPrice": 0.895,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-ausw-nzlw-2026-10-20"
+      },
+      "result": 0,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-ausw-nzlw-2026-10-20"
+    },
+    {
+      "id": "crint-uga-zmb-2026-10-20",
+      "sport": "cricket",
+      "competition": "T20",
+      "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C: Uganda vs Zambia",
+      "outcomes": [
+        "Uganda",
+        "Zambia"
+      ],
+      "startsAt": "2026-10-20T09:00:00.000Z",
+      "marketPrice": 0.944,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-uga-zmb-2026-10-20"
+      },
+      "result": 0,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-uga-zmb-2026-10-20"
+    },
+    {
+      "id": "crint-lso-moz-2026-10-20",
+      "sport": "cricket",
+      "competition": "T20",
+      "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C: Lesotho vs Mozambique",
+      "outcomes": [
+        "Lesotho",
+        "Mozambique"
+      ],
+      "startsAt": "2026-10-20T13:00:00.000Z",
+      "marketPrice": 0.215,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-lso-moz-2026-10-20"
+      },
+      "result": 0,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-lso-moz-2026-10-20"
+    },
+    {
+      "id": "crint-nga-gmb-2026-10-20",
+      "sport": "cricket",
+      "competition": "T20",
+      "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C: Nigeria vs Gambia",
+      "outcomes": [
+        "Nigeria",
+        "Gambia"
+      ],
+      "startsAt": "2026-10-20T13:00:00.000Z",
+      "marketPrice": 0.967,
+      "marketSource": {
+        "name": "Polymarket (last trade before start)",
+        "url": "https://polymarket.com/event/crint-nga-gmb-2026-10-20"
+      },
+      "result": 0,
+      "resultSource": "Polymarket resolution (UMA): https://polymarket.com/event/crint-nga-gmb-2026-10-20"
+    }
+  ]
+}

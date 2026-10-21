@@ -1,0 +1,38 @@
+{
+  "name": "tipster-ledger",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A cricket & markets pick journal that learns who to trust. Credibility memories on Walrus Memory (Sui mainnet), onchain reads via Tatum Sui RPC.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "seed:fetch": "tsx scripts/fetch-seed.ts",
+    "memwal:smoke": "tsx scripts/memwal-smoke.ts",
+    "memwal:replay": "tsx scripts/replay-to-memory.ts",
+    "verify:onchain": "tsx scripts/verify-onchain.ts"
+  },
+  "dependencies": {
+    "@mysten-incubation/memwal": "^0.1.9",
+    "next": "^16.4.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "dotenv": "^16.4.7",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^5.0.5"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
